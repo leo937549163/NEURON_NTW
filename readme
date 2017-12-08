@@ -1,0 +1,11 @@
+Stochastic RD simulatin with NEURON.
+
+need to cofigure NEURON in your machine! 
+
+to run this:
+1. ./compile.sh
+2. set python pathe. . . 
+3. ./runme.sh
+
+
+apt-get install mayavi 
